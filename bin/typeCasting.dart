@@ -5,7 +5,8 @@ double b= 3.1416;
 String name ='Afsar123';
 String pass ='123456';
 print(b);
-
+int a= b.toInt();
+print(a);
 double c= ab.toDouble();
 print(c);
 
