@@ -7,7 +7,8 @@ void main()
   if(isStudent)
     {
       print("He is a Student");
-    } else {
+    }
+  else {
     print("He is not student");
   }
 }
